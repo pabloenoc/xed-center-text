@@ -8,18 +8,28 @@ This is a plugin for centering markdown text in the Xed text editor. It's like [
 
 2. Go to `~/Downloads/` or wherever you extracted the files with `cd ~/Downloads`. 
 
-2. Create your `plugins` directory if it doesn't exist, and copy the plugin to your `plugins` directory:
+3. Create your `plugins` directory if it doesn't exist, and copy the plugin to your `plugins` directory:
 
 ```bash
   mkdir -p ~/.local/share/xed/plugins
   cp -r center-text ~/.local/share/xed/plugins/
 ```
 
+4. Restart Xed to see the plugin listed in your Plugins window.
+
 ## Usage
 
 Access Xed's configuration dialog via `Edit | Preferences | Plugins`, and enable the plugin. 
 
 You can customize the text width by clicking on `Preferences`. The default value is 72.
+
+## Uninstall
+
+To remove the plugin delete the folder and restart Xed.
+
+```
+rm -rf ~/.local/share/xed/plugins/xed-center-text
+```
 
 ## Development References
 
