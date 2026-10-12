@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=center-text
+IAge=3
+Name=Center Markdown Text
+Description=Center Markdown text at a fixed column width
+Authors=Pablo Enoc
+Copyright=MIT
+Website=https://enocc.com
