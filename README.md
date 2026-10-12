@@ -4,9 +4,9 @@ This is a plugin for centering markdown text in the Xed text editor. It's like [
 
 ## Installation
 
-1. Download the `center-text` directory from above
+1. Download the `center-text` directory from above. You can click on the green `Code` button here on GitHub and then select `Download as ZIP`. It will save the repository as `xed-center-text-master`. Extract the files.
 
-2. Go to `~/Downloads/` or wherever you saved it. Go to `cd ~/Downloads`
+2. Go to `~/Downloads/` or wherever you extracted the files with `cd ~/Downloads`. 
 
 2. Create your `plugins` directory if it doesn't exist, and copy the plugin to your `plugins` directory:
 
@@ -21,7 +21,7 @@ Access Xed's configuration dialog via `Edit | Preferences | Plugins`, and enable
 
 You can customize the text width by clicking on `Preferences`. The default value is 72.
 
-## References
+## Development References
 
 Take a look at these repos for plugin development reference:
 
@@ -29,6 +29,9 @@ Take a look at these repos for plugin development reference:
 - https://github.com/macp3o/xed-linespacing/tree/master
 
 
+## License
+
+Xed Center Text Plugin is released under the [MIT License](https://opensource.org/license/MIT).
 
 
 
