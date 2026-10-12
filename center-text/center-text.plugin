@@ -1,6 +1,6 @@
 [Plugin]
 Loader=python3
-Module=center-text
+Module=center_text
 IAge=3
 Name=Center Markdown Text
 Description=Center Markdown text at a fixed column width
