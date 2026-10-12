@@ -29,7 +29,7 @@ settings = {"text_width": load_width()}
 
 
 class CenterText(GObject.Object, Xed.ViewActivatable):
-    __gtype_name__ = "Center Text"
+    __gtype_name__ = "CenterText"
     view = GObject.property(type=Xed.View)
 
     def __init__(self):
