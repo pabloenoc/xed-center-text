@@ -5,7 +5,7 @@ from gi.repository import GObject, GLib, Gtk, PeasGtk, Xed
 
 LANGUAGES = {"markdown"}     
 DEFAULT_WIDTH = 72
-CONFIG_PATH = os.path.join(GLib.get_user_config_dir(), "xed", "center-text.json")
+CONFIG_PATH = os.path.join(GLib.get_user_config_dir(), "xed", "centertext.json")
 
 
 _instances = set()
