@@ -28,7 +28,7 @@ You can customize the text width by clicking on `Preferences`. The default value
 To remove the plugin delete the folder and restart Xed.
 
 ```
-rm -rf ~/.local/share/xed/plugins/xed-center-text
+rm -rf ~/.local/share/xed/plugins/center-text
 ```
 
 ## Development References
