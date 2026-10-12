@@ -21,6 +21,13 @@ Access Xed's configuration dialog via `Edit | Preferences | Plugins`, and enable
 
 You can customize the text width by clicking on `Preferences`. The default value is 72.
 
+## References
+
+Take a look at these repos for plugin development reference:
+
+- https://github.com/gabriellaraujocoding/xed-extra-plugins
+- https://github.com/macp3o/xed-linespacing/tree/master
+
 
 
 
